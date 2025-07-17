@@ -1,0 +1,39 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 40px;
+    padding-left: 16px;
+    width: 320px;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+.content {
+    box-sizing: border-box;
+}
+
+.qr-code {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    text-align: center;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
