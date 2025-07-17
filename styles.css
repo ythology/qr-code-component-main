@@ -12,6 +12,7 @@ body {
     width: 320px;
     border-radius: 20px;
     margin: 50px auto;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 .content {
